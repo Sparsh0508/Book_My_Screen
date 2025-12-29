@@ -1,5 +1,5 @@
 import React from "react";
-import { languages } from "../../../utils/constants";
+import { languages } from "../../utils/constants";
 
 const MovieFilter = () => {
     return (

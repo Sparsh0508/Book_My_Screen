@@ -1,5 +1,5 @@
 import React from "react";
-import { allMovies, languages } from "../../../utils/constants";
+import { allMovies, languages } from "../../utils/constants";
 import MovieCard from "./MovieCard";
 
 const Movielist = () => {

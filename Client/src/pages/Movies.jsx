@@ -1,7 +1,7 @@
 import React from "react";
 import BannerSlider from "../components/shared/BannerSlider";
-import MovieFilter from "../components/shared/movies/MovieFilter";
-import Movielist from "../components/shared/movies/Movieslist";
+import MovieFilter from "../components/movies/MovieFilter";
+import Movielist from "../components/movies/Movieslist";
 
 const Movies = () => {
     return (
